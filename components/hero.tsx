@@ -22,7 +22,7 @@ export default function Hero() {
           <div>
             <h2 className="text-2xl sm:text-3xl font-semibold text-primary mb-4">Full Stack Developer</h2>
             <p className="text-foreground/70 text-base sm:text-lg leading-relaxed max-w-md">
-              I build production-grade web applications with Next.js, React, Prisma, PostgreSQL, IoT integrations, and real-time dashboards.
+              I build production-grade web applications with Next.js, React, Prisma, PostgreSQL, Rest APIs integrations, and real-time dashboards.
             </p>
           </div>
 

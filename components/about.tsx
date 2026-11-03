@@ -13,10 +13,10 @@ export default function About() {
           {/* Description */}
           <div className="lg:col-span-2 space-y-6">
             <p className="text-foreground/80 text-lg leading-relaxed">
-              I&apos;m a Full-Stack Developer with 1+ year of experience shipping production-grade applications using Next.js, React.js, Prisma ORM, and PostgreSQL.
+              Full-Stack Developer with 1.5+ years of experience building and deploying web applications using Next.js, React.js, TypeScript, Prisma ORM, and PostgreSQL.
             </p>
             <p className="text-foreground/80 text-lg leading-relaxed">
-              I focus on clean architecture, REST API design, database schema modeling, full-stack deployment on Vercel, real-time dashboards, IoT integrations, blockchain verification, and Three.js visualization.
+              Experienced in REST API integration, database schema modeling, role-based dashboards, and full-stack deployment on Vercel. Focused on clean architecture, performance optimization, and scalable code.
             </p>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 pt-2">
               <div className="rounded-lg border border-border/40 bg-background/50 p-5 transition-all duration-300 hover:border-primary/50 hover:bg-primary/5 hover:shadow-[0_0_24px_rgba(124,58,237,0.12)]">
